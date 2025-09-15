@@ -1,0 +1,18 @@
+1. 克隆或下载项目
+
+git clone https://github.com/yourusername/OCOA.git
+cd OCOA
+
+2. 安装依赖
+
+pip install -r requirements.txt
+
+如果没有 requirements.txt，可手动安装：
+
+pip install tk
+
+3. 运行项目
+
+python OCOA.py
+
+首次运行后，程序将在 data/ 目录下生成配置文件和日志文件。
