@@ -64,13 +64,3 @@ WiFi 名称 (SSID)：目标网络名称。
 | ⛔ **断开连接**    | 断开当前 WiFi 连接       |
 | ⚙️ **设置**     | 打开 WiFi 和认证 URL 配置 |
 | 📶 **连接WiFi** | 连接到目标 WiFi         |
-
----
-1. 克隆项目
-```bash
-git clone https://github.com/yourusername/OCOA.git
-cd OCOA
-
-2. 安装依赖
-```bash
-pip install -r requirements.txt
